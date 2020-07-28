@@ -10,4 +10,4 @@
 
 图片链接格式为
 
-·https://cdn.jsdelivr.net/gh GitHub用户名 仓库名 文件path·
+https://cdn.jsdelivr.net/gh GitHub用户名 仓库名 文件path
