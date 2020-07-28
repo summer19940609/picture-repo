@@ -6,3 +6,8 @@
 
 设置如图
 ![](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo/blog/20200728150818.png)
+
+
+图片链接格式为
+
+·https://cdn.jsdelivr.net/gh GitHub用户名 仓库名 文件path·
