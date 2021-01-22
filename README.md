@@ -17,3 +17,6 @@ https://cdn.jsdelivr.net/gh GitHub用户名 仓库名 文件path
 ## upic设置
 
 ![GLiGJd](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/GLiGJd.png)
+
+## 搭配typora使用
+
