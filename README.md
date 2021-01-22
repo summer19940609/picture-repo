@@ -14,5 +14,6 @@
 
 https://cdn.jsdelivr.net/gh GitHub用户名 仓库名 文件path
 
+## upic设置
 
-![HvR6m3](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/HvR6m3.png)
+![GLiGJd](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/GLiGJd.png)
